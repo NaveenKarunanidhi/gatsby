@@ -68,6 +68,7 @@ starter:
   - Styling:None
   - Testing
   - Transitions
+  - React
 site:
   - API
   - Accessibility
@@ -125,4 +126,4 @@ site:
   - User Experience
   - Video
   - Web Development
-  - WordPress
+  - Word Press
